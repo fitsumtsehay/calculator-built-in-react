@@ -1,4 +1,4 @@
-# A simple calculator React App
+# A simple but fully functional calculator React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
